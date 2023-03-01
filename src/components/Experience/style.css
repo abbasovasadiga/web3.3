@@ -1,0 +1,10 @@
+.experience-info{
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+.experience-item{
+    padding: 10px;
+    border: solid 1px black;
+    border-radius: 20px;
+}

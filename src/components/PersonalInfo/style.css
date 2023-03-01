@@ -1,0 +1,17 @@
+.personal-info{
+    max-width: 800px;
+    margin: 0 auto;
+    border: solid 1px black;
+    border-radius: 20px;
+ }
+.personal-info-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-top: solid 1px black;
+    
+}
+.personal-info-item span:nth-last-child(1){
+font-weight: bold;
+
+}
